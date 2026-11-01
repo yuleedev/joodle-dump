@@ -1,4 +1,4 @@
-# doodle-jump
+# joodle-dump
 the ever so classic doodle jump game... but with only one key?!
 made for https://onekey.hackclub.com/ using unity in about six hours. terrible art all drawn by me
 
